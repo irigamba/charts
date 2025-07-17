@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RBC - Hierarchical bar chart</title>
+    <link rel="stylesheet" type="text/css" href="./inspector.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="./fonts/RBCDisplay-Regular.otf"
+    />
+    <style type="text/css">
+      @font-face {
+        font-family: "RBCDisplay";
+        src: url("./fonts/RBCDisplay-Regular.otf") format("opentype");
+        font-weight: 400;
+        font-style: normal;
+        font-display: swap;
+      }
+    </style>
+  </head>
+  <body>
+    <script type="module">
+      import define from "./index.js";
+      import { Runtime, Library, Inspector } from "./runtime.js";
+
+      const runtime = new Runtime();
+      const main = runtime.module(define, Inspector.into(document.body));
+    </script>
+  </body>
+</html>

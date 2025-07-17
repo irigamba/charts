@@ -1,0 +1,129 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Health Care",
+   "children": [
+    {
+     "name": "Health Care 1",
+     "children": [
+      {"name": "Health Care 1A", "value": 320},
+      {"name": "Health Care 1B", "value": 320}
+     ]
+    },
+    {
+     "name": "Health Care 2",
+     "children": [
+      {"name": "Health Care 2A", "value": 320},
+      {"name": "Health Care 2B", "value": 320}
+     ]
+    },
+    {
+     "name": "Health Care 3",
+     "children": [
+      {"name": "Health Care 3A", "value": 320}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Prof. & Bus services",
+   "children": [
+    {"name": "Prof. & Bus services 1", "value": 300},
+    {"name": "Prof. & Bus services 2", "value": 300},
+    {
+     "name": "Prof. & Bus services 3",
+     "children": [
+      {"name": "Prof. & Bus services 3A", "value": 300},
+      {"name": "Prof. & Bus services 3B", "value": 300}
+     ]
+    },
+    {"name": "Prof. & Bus services 4", "value": 300}
+   ]
+  },
+  {
+   "name": "Retail Trade",
+   "children": [
+    {
+     "name": "Retail Trade 1",
+     "children": [
+      {"name": "Retail Trade 1A", "value": 200},
+      {"name": "Retail Trade 1B", "value": 250}
+     ]
+    },
+    {"name": "Retail Trade 2", "value": 250},
+    {"name": "Retail Trade 3", "value": 250}
+   ]
+  },
+  {
+   "name": "Education",
+   "children": [
+    {"name": "Education 1", "value": 100},
+    {"name": "Education 2", "value": 100},
+    {"name": "Education 3", "value": 100},
+    {"name": "Education 4", "value": 100}
+   ]
+  },
+  {
+   "name": "Manufacturing",
+   "children": [
+    {"name": "Manufacturing 1", "value": 2060}
+   ]
+  },
+  {
+   "name": "Finance",
+   "children": [
+    {"name": "Finance 1", "value": 1082},
+    {"name": "Finance 2", "value": 1336}
+   ]
+  },
+  {
+   "name": "Other Services",
+   "children": [
+    {"name": "Other Services 1", "value": 10},
+    {"name": "Other Services 2", "value": 10},
+    {"name": "Other Services 3", "value": 38},
+    {"name": "Other Services 4", "value": 84},
+    {
+     "name": "Other Services 5",
+     "children": [
+      {"name": "Other Services 5A", "value": 59},
+      {"name": "Other Services 5B", "value": 33}
+     ]
+    },
+    {"name": "Other Services 6", "value": 8},
+    {"name": "Other Services 7", "value": 15}
+   ]
+  },
+  {
+   "name": "Leisure & Hosp.",
+   "children": [
+    {"name": "Leisure & Hosp. 1", "value": 21},
+    {"name": "Leisure & Hosp. 2", "value": 13},
+    {"name": "Leisure & Hosp. 3", "value": 315}
+   ]
+  },
+  {
+    "name": "Construction", "value": 2105
+  },
+  {
+   "name": "Government",
+   "children": [
+    {
+     "name": "Government 1",
+     "children": [
+      {"name": "Government 1A", "value": 100},
+      {"name": "Government 1B", "value": 100}
+     ]
+    },
+    {
+     "name": "Government 2",
+     "children": [
+      {"name": "Government 2A", "value": 100},
+      {"name": "Government 2B", "value": 100}
+     ]
+    }
+   ]
+  }
+ ]
+}
