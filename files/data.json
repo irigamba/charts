@@ -104,8 +104,13 @@
    ]
   },
   {
-    "name": "Construction", "value": 2105
-  },
+    "name": "Construction",
+    "children": [
+     {"name": "Construction 1", "value": 21},
+     {"name": "Construction", "value": 13},
+     {"name": "Construction", "value": 315}
+    ]
+   },
   {
    "name": "Government",
    "children": [

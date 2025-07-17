@@ -247,7 +247,7 @@ g => g
 )}
 
 function _color(d3){return(
-d3.scaleOrdinal([true, false], ["#0051a5", "#FFC72C"])
+d3.scaleOrdinal([true, false], ["#0051a5", "#E7EEF1"])
 )}
 
 function _barStep(){return(
